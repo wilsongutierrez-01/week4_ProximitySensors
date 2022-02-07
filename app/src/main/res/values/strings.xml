@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">week4_ProximitySensors</string>
+    <string name="sensor">Proximity Sensor</string>
+</resources>
